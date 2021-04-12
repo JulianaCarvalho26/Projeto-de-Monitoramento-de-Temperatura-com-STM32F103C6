@@ -4,4 +4,4 @@ Este projeto consiste em implementar via simulação um sistema de monitoramento
 
 Vídeo de apresentação:
 
-https://drive.google.com/file/d/1w9GsPcDrHgW1MxMu5gwdGiOBWJNc2q_A/view
+https://www.youtube.com/watch?v=HjbqBGuhZ2k
